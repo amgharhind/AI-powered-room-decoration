@@ -25,7 +25,7 @@ The magic happens in a two-step process:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/amgharhind/AI-powered-room-decoration.git]
+    git clone https://github.com/amgharhind/AI-powered-room-decoration.git
     ```
 
 2.  **Launch Jupyter Notebook** and open the `.ipynb` file to run the project.
