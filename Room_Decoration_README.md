@@ -105,6 +105,8 @@ Binary Mask Extraction
 - **Precise Object Isolation:** SegFormer reliably identifies common room elements such as sofas, walls, floors, chairs, and windows.
 - **Realistic Texture and Color Transfers:** The diffusion models produce photorealistic modifications that blend naturally with the surrounding, unmodified areas of the image.
 - **Side-by-Side Comparison:** Each approach outputs a side-by-side visualization of the original and modified images for easy evaluation.
+  ![Results]([[https://github.com/amgharhind/apis-searching-in-distributed-system/blob/master/architecture.png?raw=true](https://github.com/user-attachments/assets/50270745-b718-4190-9307-22df8ade9d2c)](https://github.com/user-attachments/assets/50270745-b718-4190-9307-22df8ade9d2c))
+
 
 ## Limitations and Future Work
 
